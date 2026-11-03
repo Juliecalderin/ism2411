@@ -4,7 +4,7 @@
 
 **Semester:** Fall 2026
 
-**Instructor:** [Course Instructor]
+**Instructor:** Markum Reed
 
 ## About This Repo
 
@@ -32,7 +32,7 @@ Each script is standalone. Open a terminal and run:
 5425c6d Initial commit
 '''
 
-If I were hiring someone and saw this, I would think they work in small steps. Each message says what changed, and each commit is just one change.
+If I were hiring someone angit add README.mdd saw this, I would think they work in small steps. Each message says what changed, and each commit is just one change.
 
 **2. How Git changes my edits**
 
